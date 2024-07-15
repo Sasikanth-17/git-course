@@ -2,4 +2,4 @@ Hello Hi!!!!
 Take input from the user
 Add the values
 
-Submit data to the database
+Submit data to the data
