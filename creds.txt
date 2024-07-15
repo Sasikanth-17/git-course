@@ -1,2 +1,0 @@
-username= sasi17
-password=1740
